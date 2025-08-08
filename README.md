@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/nsNXkHw/Nirob-Debnath.jpg" alt="Banner" />
+  <img src="https://i.ibb.co/nsNXkHwc/Nirob-Debnath.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Nirob Debnath 👋</h1>
