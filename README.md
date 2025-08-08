@@ -8,24 +8,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I'm a passionate and self-motivated MERN Stack Developer from Bangladesh 🇧🇩.  
-I specialize in building full-stack web applications with modern technologies.  
-I love clean code, responsive UI, and scalable backend architecture.  
-Always eager to learn, build, and collaborate on exciting projects.
-
----
-
-### 🔭 Current Activities
-
-- 🚀 Exploring **Next.js** and **Tailwind CSS**.
-- 🏨 Working on a **hostel management system** with meal scheduling & payment features.
-- 🔐 Implementing secure authentication and membership systems using **JWT** and **Stripe**.
-- 📚 Learning German (A1 Level) 🇩🇪.
-
----
-
 ### 🚀 Skills & Technologies
 
 #### 🖥️ Frontend
@@ -54,6 +36,23 @@ Always eager to learn, build, and collaborate on exciting projects.
 
 ---
 
+### 👨‍💻 About Me
+
+I'm a passionate and self-motivated MERN Stack Developer from Bangladesh 🇧🇩.  
+I specialize in building full-stack web applications with modern technologies.  
+I love clean code, responsive UI, and scalable backend architecture.  
+Always eager to learn, build, and collaborate on exciting projects.
+
+---
+
+### 🔭 Current Activities
+
+- 🚀 Exploring **Next.js** and **MONGOOSE**.
+- 🏨 Working on a **hostel management system** with meal scheduling & payment features.
+- 🔐 Implementing secure authentication and membership systems using **JWT** and **Stripe**.
+
+---
+
 ### 🔗 Connect With Me
 
 <p>
@@ -63,7 +62,7 @@ Always eager to learn, build, and collaborate on exciting projects.
   <a href="https://www.linkedin.com/in/nirob-debnath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nirob@example.com">
+  <a href="mailto:nirobdebnath01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
