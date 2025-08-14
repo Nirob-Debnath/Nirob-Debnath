@@ -79,7 +79,7 @@ Always eager to learn, build, and collaborate on exciting projects.
   <a href="https://github.com/Nirob-Debnath" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nirob-debnath" target="_blank">
+  <a href="https://www.linkedin.com/in/nirobdebnath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nirobdebnath01@gmail.com">
